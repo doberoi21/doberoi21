@@ -4,9 +4,21 @@
 
 <p align="left"> <a href="https://twitter.com/divyanshioberoi" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshioberoi?logo=twitter&style=for-the-badge" alt="divyanshioberoi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://iamdivyanshi-oberoi.netlify.app/](https://iamdivyanshi-oberoi.netlify.app/)
+- I’m a Computer Science graduate student at Illinois Institute of Technology with over a year of experience in software development and data-driven problem-solving. My expertise lies in building scalable, efficient solutions for e-commerce and AI-powered platforms. Passionate about innovation, I focus on optimizing workflows, improving system performance, and delivering impactful results through collaborative, agile development.
 
-- 💬 Ask me about **Frontend Development - React**
+- 🔧 Key Skills : 
+  Programming Languages: JavaScript, Python, C++, Java, SQL
+
+  Frameworks & Technologies: React.js, TypeScript, Redux (Redux Toolkit), Next.js, Node.js, Big Data (Hadoop, Kafka), Machine Learning Algorithms, React Native, Material UI, MVC, Object-Oriented Programming (OOP), Tailwind CSS
+
+  Development & Testing: Software Debugging, RDBMS, AWS, UI/UX Design, Software & API Testing, Database Testing, Web Development
+
+  Tools & Platforms: Git, MySQL, VS Code, Figma, Canva
+
+  Soft Skills: Strong Written & Verbal Communication, Team Collaboration, Adaptability, Time Management, and Problem-Solving
+
+
+- 👨‍💻 All of my projects are available at [https://iamdivyanshi-oberoi.netlify.app/](https://iamdivyanshi-oberoi.netlify.app/)
 
 - 📫 How to reach me **connect2divyanshi@gmail.com**
 
